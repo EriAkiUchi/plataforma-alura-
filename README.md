@@ -11,4 +11,4 @@ Estes foram os conceitos aplicados neste projeto:
 - Media Query  
 
 # Execução da plataforma
-Acesse a execução da plataforma por meio deste link: [link]()  
+Acesse a execução da plataforma por meio deste link: [plataforma alura](https://plataforma-alura-nu.vercel.app/)  
